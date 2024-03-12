@@ -1,0 +1,6 @@
+#FileLock
+#Tue Mar 12 15:14:15 ICT 2024
+hostName=dctrng
+id=18e31b9fb667b17d84b8852d0ac739b382a067dbe23
+method=file
+server=192.168.35.108\:62059
